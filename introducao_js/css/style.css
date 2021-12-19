@@ -4,4 +4,15 @@
 
 body {
     color: grey;
+    text-align: center;
+}
+
+section.imagem-de-gato img {
+    width: 400px;
+    height: auto;
+}
+
+section.imagem-de-gato button {
+    margin-top: 1rem;
+    padding: .5rem 1rem;
 }
